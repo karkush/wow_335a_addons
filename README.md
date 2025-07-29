@@ -1,4 +1,6 @@
 # 
+https://github.com/TrinityCore/wow_335a_addons
+
 World of warcraft 3.3.5a addons
 
 Repository to put and update world of warcraft 3.3.5a version addon.
